@@ -2,6 +2,18 @@
 
 Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc..
 
+<br/>
+
+**Installation:**
+
+```bash
+poetry add tailwind_colors
+# or
+pip install tailwind_colors
+```
+
+<br/>
+
 **Usage:**
 
 ```python

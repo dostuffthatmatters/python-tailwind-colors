@@ -1,6 +1,8 @@
 
 from typing import Literal
 
+__version__ = "1.0.0"
+
 
 class TAILWIND_COLORS:
     """

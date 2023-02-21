@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "tailwind_colors"
-version = "0.2.0"
+version = "1.0.0"
 description = "Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc."
 
 authors = ["Moritz Makowski <moritz@dostuffthatmatters.dev>"]
 readme = "README.md"
-repository = "https://github.com/dostuffthatmatters/python_tailwind_colors"
+repository = "https://github.com/dostuffthatmatters/python-tailwind-colors"
 license = "MIT"
 
 packages = [{include = "tailwind_colors"}]

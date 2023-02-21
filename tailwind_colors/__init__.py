@@ -3,6 +3,15 @@ from typing import Literal
 
 
 class TAILWIND_COLORS:
+    """
+    Provides all colors from TailwindCSS as strings.
+
+    ```python
+    print(TAILWIND_COLORS.AMBER_600)
+    # prints `#d97706`
+    ```
+    """
+        
     SLATE_050: Literal['f8fafc'] = '#f8fafc'
     SLATE_100: Literal['f1f5f9'] = '#f1f5f9'
     SLATE_200: Literal['e2e8f0'] = '#e2e8f0'

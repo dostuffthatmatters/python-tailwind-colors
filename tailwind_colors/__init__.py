@@ -24,6 +24,7 @@ class TAILWIND_COLORS:
     SLATE_700: Literal['#334155'] = '#334155'
     SLATE_800: Literal['#1e293b'] = '#1e293b'
     SLATE_900: Literal['#0f172a'] = '#0f172a'
+    SLATE_950: Literal['#020617'] = '#020617'
 
     GRAY_050: Literal['#f9fafb'] = '#f9fafb'
     GRAY_100: Literal['#f3f4f6'] = '#f3f4f6'
@@ -35,6 +36,7 @@ class TAILWIND_COLORS:
     GRAY_700: Literal['#374151'] = '#374151'
     GRAY_800: Literal['#1f2937'] = '#1f2937'
     GRAY_900: Literal['#111827'] = '#111827'
+    GRAY_950: Literal['#030712'] = '#030712'
 
     ZINC_050: Literal['#fafafa'] = '#fafafa'
     ZINC_100: Literal['#f4f4f5'] = '#f4f4f5'
@@ -46,6 +48,7 @@ class TAILWIND_COLORS:
     ZINC_700: Literal['#3f3f46'] = '#3f3f46'
     ZINC_800: Literal['#27272a'] = '#27272a'
     ZINC_900: Literal['#18181b'] = '#18181b'
+    ZINC_950: Literal['#09090b'] = '#09090b',
 
     NEUTRAL_050: Literal['#fafafa'] = '#fafafa'
     NEUTRAL_100: Literal['#f5f5f5'] = '#f5f5f5'
@@ -57,6 +60,7 @@ class TAILWIND_COLORS:
     NEUTRAL_700: Literal['#404040'] = '#404040'
     NEUTRAL_800: Literal['#262626'] = '#262626'
     NEUTRAL_900: Literal['#171717'] = '#171717'
+    NEUTRAL_950: Literal['#0a0a0a'] = '#0a0a0a'
 
     STONE_050: Literal['#fafaf9'] = '#fafaf9'
     STONE_100: Literal['#f5f5f4'] = '#f5f5f4'
@@ -68,6 +72,7 @@ class TAILWIND_COLORS:
     STONE_700: Literal['#44403c'] = '#44403c'
     STONE_800: Literal['#292524'] = '#292524'
     STONE_900: Literal['#1c1917'] = '#1c1917'
+    STONE_950: Literal['#0c0a09'] = '#0c0a09'
 
     RED_050: Literal['#fef2f2'] = '#fef2f2'
     RED_100: Literal['#fee2e2'] = '#fee2e2'
@@ -79,6 +84,7 @@ class TAILWIND_COLORS:
     RED_700: Literal['#b91c1c'] = '#b91c1c'
     RED_800: Literal['#991b1b'] = '#991b1b'
     RED_900: Literal['#7f1d1d'] = '#7f1d1d'
+    RED_950: Literal['#450a0a'] = '#450a0a'
 
     ORANGE_050: Literal['#fff7ed'] = '#fff7ed'
     ORANGE_100: Literal['#ffedd5'] = '#ffedd5'
@@ -90,6 +96,7 @@ class TAILWIND_COLORS:
     ORANGE_700: Literal['#c2410c'] = '#c2410c'
     ORANGE_800: Literal['#9a3412'] = '#9a3412'
     ORANGE_900: Literal['#7c2d12'] = '#7c2d12'
+    ORANGE_950: Literal['#431407'] = '#431407'
 
     AMBER_050: Literal['#fffbeb'] = '#fffbeb'
     AMBER_100: Literal['#fef3c7'] = '#fef3c7'
@@ -101,6 +108,7 @@ class TAILWIND_COLORS:
     AMBER_700: Literal['#b45309'] = '#b45309'
     AMBER_800: Literal['#92400e'] = '#92400e'
     AMBER_900: Literal['#78350f'] = '#78350f'
+    AMBER_950: Literal['#451a03'] = '#451a03'
 
     YELLOW_050: Literal['#fefce8'] = '#fefce8'
     YELLOW_100: Literal['#fef9c3'] = '#fef9c3'
@@ -112,6 +120,7 @@ class TAILWIND_COLORS:
     YELLOW_700: Literal['#a16207'] = '#a16207'
     YELLOW_800: Literal['#854d0e'] = '#854d0e'
     YELLOW_900: Literal['#713f12'] = '#713f12'
+    YELLOW_950: Literal['#422006'] = '#422006'
 
     LIME_050: Literal['#f7fee7'] = '#f7fee7'
     LIME_100: Literal['#ecfccb'] = '#ecfccb'
@@ -123,6 +132,7 @@ class TAILWIND_COLORS:
     LIME_700: Literal['#4d7c0f'] = '#4d7c0f'
     LIME_800: Literal['#3f6212'] = '#3f6212'
     LIME_900: Literal['#365314'] = '#365314'
+    LIME_950: Literal['#1a2e05'] = '#1a2e05'
 
     GREEN_050: Literal['#f0fdf4'] = '#f0fdf4'
     GREEN_100: Literal['#dcfce7'] = '#dcfce7'
@@ -134,6 +144,7 @@ class TAILWIND_COLORS:
     GREEN_700: Literal['#15803d'] = '#15803d'
     GREEN_800: Literal['#166534'] = '#166534'
     GREEN_900: Literal['#14532d'] = '#14532d'
+    GREEN_950: Literal['#052e16'] = '#052e16'
 
     EMERALD_050: Literal['#ecfdf5'] = '#ecfdf5'
     EMERALD_100: Literal['#d1fae5'] = '#d1fae5'
@@ -145,6 +156,7 @@ class TAILWIND_COLORS:
     EMERALD_700: Literal['#047857'] = '#047857'
     EMERALD_800: Literal['#065f46'] = '#065f46'
     EMERALD_900: Literal['#064e3b'] = '#064e3b'
+    EMERALD_950: Literal['#022c22'] = '#022c22'
 
     TEAL_050: Literal['#f0fdfa'] = '#f0fdfa'
     TEAL_100: Literal['#ccfbf1'] = '#ccfbf1'
@@ -156,6 +168,7 @@ class TAILWIND_COLORS:
     TEAL_700: Literal['#0f766e'] = '#0f766e'
     TEAL_800: Literal['#115e59'] = '#115e59'
     TEAL_900: Literal['#134e4a'] = '#134e4a'
+    TEAL_950: Literal['#042f2e'] = '#042f2e'
 
     CYAN_050: Literal['#ecfeff'] = '#ecfeff'
     CYAN_100: Literal['#cffafe'] = '#cffafe'
@@ -167,6 +180,7 @@ class TAILWIND_COLORS:
     CYAN_700: Literal['#0e7490'] = '#0e7490'
     CYAN_800: Literal['#155e75'] = '#155e75'
     CYAN_900: Literal['#164e63'] = '#164e63'
+    CYAN_950: Literal['#083344'] = '#083344'
 
     SKY_050: Literal['#f0f9ff'] = '#f0f9ff'
     SKY_100: Literal['#e0f2fe'] = '#e0f2fe'
@@ -178,6 +192,7 @@ class TAILWIND_COLORS:
     SKY_700: Literal['#0369a1'] = '#0369a1'
     SKY_800: Literal['#075985'] = '#075985'
     SKY_900: Literal['#0c4a6e'] = '#0c4a6e'
+    SKY_950: Literal['#082f49'] = '#082f49'
 
     BLUE_050: Literal['#eff6ff'] = '#eff6ff'
     BLUE_100: Literal['#dbeafe'] = '#dbeafe'
@@ -189,6 +204,7 @@ class TAILWIND_COLORS:
     BLUE_700: Literal['#1d4ed8'] = '#1d4ed8'
     BLUE_800: Literal['#1e40af'] = '#1e40af'
     BLUE_900: Literal['#1e3a8a'] = '#1e3a8a'
+    BLUE_950: Literal['#172554'] = '#172554'
 
     INDIGO_050: Literal['#eef2ff'] = '#eef2ff'
     INDIGO_100: Literal['#e0e7ff'] = '#e0e7ff'
@@ -200,6 +216,7 @@ class TAILWIND_COLORS:
     INDIGO_700: Literal['#4338ca'] = '#4338ca'
     INDIGO_800: Literal['#3730a3'] = '#3730a3'
     INDIGO_900: Literal['#312e81'] = '#312e81'
+    INDIGO_950: Literal['#1e1b4b'] = '#1e1b4b'
 
     VIOLET_050: Literal['#f5f3ff'] = '#f5f3ff'
     VIOLET_100: Literal['#ede9fe'] = '#ede9fe'
@@ -211,6 +228,7 @@ class TAILWIND_COLORS:
     VIOLET_700: Literal['#6d28d9'] = '#6d28d9'
     VIOLET_800: Literal['#5b21b6'] = '#5b21b6'
     VIOLET_900: Literal['#4c1d95'] = '#4c1d95'
+    VIOLET_950: Literal['#2e1065'] = '#2e1065'
 
     PURPLE_050: Literal['#faf5ff'] = '#faf5ff'
     PURPLE_100: Literal['#f3e8ff'] = '#f3e8ff'
@@ -222,6 +240,7 @@ class TAILWIND_COLORS:
     PURPLE_700: Literal['#7e22ce'] = '#7e22ce'
     PURPLE_800: Literal['#6b21a8'] = '#6b21a8'
     PURPLE_900: Literal['#581c87'] = '#581c87'
+    PURPLE_950: Literal['#3b0764'] = '#3b0764'
 
     FUCHSIA_050: Literal['#fdf4ff'] = '#fdf4ff'
     FUCHSIA_100: Literal['#fae8ff'] = '#fae8ff'
@@ -233,6 +252,7 @@ class TAILWIND_COLORS:
     FUCHSIA_700: Literal['#a21caf'] = '#a21caf'
     FUCHSIA_800: Literal['#86198f'] = '#86198f'
     FUCHSIA_900: Literal['#701a75'] = '#701a75'
+    FUCHSIA_950: Literal['#4a044e'] = '#4a044e'
 
     PINK_050: Literal['#fdf2f8'] = '#fdf2f8'
     PINK_100: Literal['#fce7f3'] = '#fce7f3'
@@ -244,6 +264,7 @@ class TAILWIND_COLORS:
     PINK_700: Literal['#be185d'] = '#be185d'
     PINK_800: Literal['#9d174d'] = '#9d174d'
     PINK_900: Literal['#831843'] = '#831843'
+    PINK_950: Literal['#500724'] = '#500724'
 
     ROSE_050: Literal['#fff1f2'] = '#fff1f2'
     ROSE_100: Literal['#ffe4e6'] = '#ffe4e6'
@@ -255,3 +276,4 @@ class TAILWIND_COLORS:
     ROSE_700: Literal['#be123c'] = '#be123c'
     ROSE_800: Literal['#9f1239'] = '#9f1239'
     ROSE_900: Literal['#881337'] = '#881337'
+    ROSE_950: Literal['#4c0519'] = '#4c0519'

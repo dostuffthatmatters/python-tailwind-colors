@@ -17,7 +17,8 @@ pip install tailwind_colors
 **Usage:**
 
 ```python
-from tailwind_colors import TAILWIND_COLORS
+from tailwind_colors import TAILWIND_COLORS_HEX, TAILWIND_COLORS_RGB
 
-print(TAILWIND_COLORS.FUCHSIA_600)  # prints '#c026d3'
+print(TAILWIND_COLORS_HEX.FUCHSIA_600)  # prints '#c026d3'
+print(TAILWIND_COLORS_RGB.FUCHSIA_600)  # prints (192, 38, 211)
 ```

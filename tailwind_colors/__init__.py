@@ -48,7 +48,7 @@ class TAILWIND_COLORS:
     ZINC_700: Literal['#3f3f46'] = '#3f3f46'
     ZINC_800: Literal['#27272a'] = '#27272a'
     ZINC_900: Literal['#18181b'] = '#18181b'
-    ZINC_950: Literal['#09090b'] = '#09090b',
+    ZINC_950: Literal['#09090b'] = '#09090b'
 
     NEUTRAL_050: Literal['#fafafa'] = '#fafafa'
     NEUTRAL_100: Literal['#f5f5f5'] = '#f5f5f5'

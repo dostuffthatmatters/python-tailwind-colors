@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tailwind_colors"
-version = "1.2.0"
+version = "1.2.1"
 description = "Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc."
 
 authors = ["Moritz Makowski <moritz@dostuffthatmatters.dev>"]
@@ -36,7 +36,7 @@ python = "^3.8"
 optional = true
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.2.0"
+mypy = "^1.3.0"
 
 [build-system]
 requires = ["poetry-core"]

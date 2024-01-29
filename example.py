@@ -17,11 +17,12 @@ print(f"Emerald 500 Hex: {emerald_500.hex}, RGB: {emerald_500.rgb}")
 
 # Example 2: Overriding a color shade
 
-# Method 1: Accessing a specific color shade directly
+# Using hex value
 tp.SLATE.override_shade('shade_100', value="#abcdef")
 updated_slate_100 = tp.SLATE.shade_100  # or tp.get('slate-100')
 print(f"Updated Slate 100 Hex: {updated_slate_100.hex}, RGB: {updated_slate_100.rgb}")
-# OR using RGB
+
+# OR using RGB value
 tp.SLATE.override_shade('shade_200', value=(12, 34, 56))
 updated_slate_200 = tp.SLATE.shade_200  # or tp.get('slate-200')
 print(f"Updated Slate 200 Hex: {updated_slate_200.hex}, RGB: {updated_slate_200.rgb}")

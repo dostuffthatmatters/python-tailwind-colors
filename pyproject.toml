@@ -1,9 +1,11 @@
 [project]
 name = "tailwind_colors"
-version = "1.3.0"
+version = "1.4.0"
 description = "Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc."
 
-authors = [{ name = "Moritz Makowski", email = "moritz@dostuffthatmatters.dev" }]
+authors = [
+    { name = "Moritz Makowski", email = "moritz@dostuffthatmatters.dev" },
+]
 dependencies = []
 requires-python = ">=3.8.0,<4.0.0"
 readme = "README.md"
@@ -45,11 +47,16 @@ repository = "https://github.com/dostuffthatmatters/python-tailwind-colors"
 documentation = "https://github.com/dostuffthatmatters/python-tailwind-colors"
 
 [project.optional-dependencies]
-dev = ["mypy>=1.11.2", "yapf>=0.40.2"]
+dev = [
+    "mypy>=1.11.2",
+    "yapf>=0.40.2",
+]
 
 [tool.pdm]
 distribution = true
-build.includes = ["tailwind_colors"]
+build.includes = [
+    "tailwind_colors",
+]
 build.excludes = ["scripts"]
 
 [build-system]

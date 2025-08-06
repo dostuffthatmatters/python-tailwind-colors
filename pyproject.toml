@@ -1,6 +1,6 @@
 [project]
 name = "tailwind_colors"
-version = "1.4.0"
+version = "1.4.1"
 description = "Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc."
 
 authors = [

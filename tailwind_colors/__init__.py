@@ -453,11 +453,6 @@ class TAILWIND_COLORS_HEX:
     ROSE_950: Literal["#4c0519"] = "#4c0519"
 
     RAINBOW_050: list[str] = [
-        SLATE_050,
-        GRAY_050,
-        ZINC_050,
-        NEUTRAL_050,
-        STONE_050,
         RED_050,
         ORANGE_050,
         AMBER_050,
@@ -478,11 +473,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_100: list[str] = [
-        SLATE_100,
-        GRAY_100,
-        ZINC_100,
-        NEUTRAL_100,
-        STONE_100,
         RED_100,
         ORANGE_100,
         AMBER_100,
@@ -503,11 +493,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_150: list[str] = [
-        SLATE_150,
-        GRAY_150,
-        ZINC_150,
-        NEUTRAL_150,
-        STONE_150,
         RED_150,
         ORANGE_150,
         AMBER_150,
@@ -528,11 +513,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_200: list[str] = [
-        SLATE_200,
-        GRAY_200,
-        ZINC_200,
-        NEUTRAL_200,
-        STONE_200,
         RED_200,
         ORANGE_200,
         AMBER_200,
@@ -553,11 +533,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_250: list[str] = [
-        SLATE_250,
-        GRAY_250,
-        ZINC_250,
-        NEUTRAL_250,
-        STONE_250,
         RED_250,
         ORANGE_250,
         AMBER_250,
@@ -578,11 +553,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_300: list[str] = [
-        SLATE_300,
-        GRAY_300,
-        ZINC_300,
-        NEUTRAL_300,
-        STONE_300,
         RED_300,
         ORANGE_300,
         AMBER_300,
@@ -603,11 +573,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_350: list[str] = [
-        SLATE_350,
-        GRAY_350,
-        ZINC_350,
-        NEUTRAL_350,
-        STONE_350,
         RED_350,
         ORANGE_350,
         AMBER_350,
@@ -628,11 +593,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_400: list[str] = [
-        SLATE_400,
-        GRAY_400,
-        ZINC_400,
-        NEUTRAL_400,
-        STONE_400,
         RED_400,
         ORANGE_400,
         AMBER_400,
@@ -653,11 +613,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_450: list[str] = [
-        SLATE_450,
-        GRAY_450,
-        ZINC_450,
-        NEUTRAL_450,
-        STONE_450,
         RED_450,
         ORANGE_450,
         AMBER_450,
@@ -678,11 +633,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_500: list[str] = [
-        SLATE_500,
-        GRAY_500,
-        ZINC_500,
-        NEUTRAL_500,
-        STONE_500,
         RED_500,
         ORANGE_500,
         AMBER_500,
@@ -703,11 +653,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_550: list[str] = [
-        SLATE_550,
-        GRAY_550,
-        ZINC_550,
-        NEUTRAL_550,
-        STONE_550,
         RED_550,
         ORANGE_550,
         AMBER_550,
@@ -728,11 +673,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_600: list[str] = [
-        SLATE_600,
-        GRAY_600,
-        ZINC_600,
-        NEUTRAL_600,
-        STONE_600,
         RED_600,
         ORANGE_600,
         AMBER_600,
@@ -753,11 +693,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_650: list[str] = [
-        SLATE_650,
-        GRAY_650,
-        ZINC_650,
-        NEUTRAL_650,
-        STONE_650,
         RED_650,
         ORANGE_650,
         AMBER_650,
@@ -778,11 +713,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_700: list[str] = [
-        SLATE_700,
-        GRAY_700,
-        ZINC_700,
-        NEUTRAL_700,
-        STONE_700,
         RED_700,
         ORANGE_700,
         AMBER_700,
@@ -803,11 +733,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_750: list[str] = [
-        SLATE_750,
-        GRAY_750,
-        ZINC_750,
-        NEUTRAL_750,
-        STONE_750,
         RED_750,
         ORANGE_750,
         AMBER_750,
@@ -828,11 +753,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_800: list[str] = [
-        SLATE_800,
-        GRAY_800,
-        ZINC_800,
-        NEUTRAL_800,
-        STONE_800,
         RED_800,
         ORANGE_800,
         AMBER_800,
@@ -853,11 +773,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_850: list[str] = [
-        SLATE_850,
-        GRAY_850,
-        ZINC_850,
-        NEUTRAL_850,
-        STONE_850,
         RED_850,
         ORANGE_850,
         AMBER_850,
@@ -878,11 +793,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_900: list[str] = [
-        SLATE_900,
-        GRAY_900,
-        ZINC_900,
-        NEUTRAL_900,
-        STONE_900,
         RED_900,
         ORANGE_900,
         AMBER_900,
@@ -903,11 +813,6 @@ class TAILWIND_COLORS_HEX:
     ]
 
     RAINBOW_950: list[str] = [
-        SLATE_950,
-        GRAY_950,
-        ZINC_950,
-        NEUTRAL_950,
-        STONE_950,
         RED_950,
         ORANGE_950,
         AMBER_950,
@@ -1379,11 +1284,6 @@ class TAILWIND_COLORS_RGB:
     ROSE_950: tuple[Literal[76], Literal[5], Literal[25]] = (76, 5, 25)
 
     RAINBOW_050: list[tuple[int, int, int]] = [
-        SLATE_050,
-        GRAY_050,
-        ZINC_050,
-        NEUTRAL_050,
-        STONE_050,
         RED_050,
         ORANGE_050,
         AMBER_050,
@@ -1404,11 +1304,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_100: list[tuple[int, int, int]] = [
-        SLATE_100,
-        GRAY_100,
-        ZINC_100,
-        NEUTRAL_100,
-        STONE_100,
         RED_100,
         ORANGE_100,
         AMBER_100,
@@ -1429,11 +1324,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_150: list[tuple[int, int, int]] = [
-        SLATE_150,
-        GRAY_150,
-        ZINC_150,
-        NEUTRAL_150,
-        STONE_150,
         RED_150,
         ORANGE_150,
         AMBER_150,
@@ -1454,11 +1344,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_200: list[tuple[int, int, int]] = [
-        SLATE_200,
-        GRAY_200,
-        ZINC_200,
-        NEUTRAL_200,
-        STONE_200,
         RED_200,
         ORANGE_200,
         AMBER_200,
@@ -1479,11 +1364,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_250: list[tuple[int, int, int]] = [
-        SLATE_250,
-        GRAY_250,
-        ZINC_250,
-        NEUTRAL_250,
-        STONE_250,
         RED_250,
         ORANGE_250,
         AMBER_250,
@@ -1504,11 +1384,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_300: list[tuple[int, int, int]] = [
-        SLATE_300,
-        GRAY_300,
-        ZINC_300,
-        NEUTRAL_300,
-        STONE_300,
         RED_300,
         ORANGE_300,
         AMBER_300,
@@ -1529,11 +1404,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_350: list[tuple[int, int, int]] = [
-        SLATE_350,
-        GRAY_350,
-        ZINC_350,
-        NEUTRAL_350,
-        STONE_350,
         RED_350,
         ORANGE_350,
         AMBER_350,
@@ -1554,11 +1424,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_400: list[tuple[int, int, int]] = [
-        SLATE_400,
-        GRAY_400,
-        ZINC_400,
-        NEUTRAL_400,
-        STONE_400,
         RED_400,
         ORANGE_400,
         AMBER_400,
@@ -1579,11 +1444,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_450: list[tuple[int, int, int]] = [
-        SLATE_450,
-        GRAY_450,
-        ZINC_450,
-        NEUTRAL_450,
-        STONE_450,
         RED_450,
         ORANGE_450,
         AMBER_450,
@@ -1604,11 +1464,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_500: list[tuple[int, int, int]] = [
-        SLATE_500,
-        GRAY_500,
-        ZINC_500,
-        NEUTRAL_500,
-        STONE_500,
         RED_500,
         ORANGE_500,
         AMBER_500,
@@ -1629,11 +1484,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_550: list[tuple[int, int, int]] = [
-        SLATE_550,
-        GRAY_550,
-        ZINC_550,
-        NEUTRAL_550,
-        STONE_550,
         RED_550,
         ORANGE_550,
         AMBER_550,
@@ -1654,11 +1504,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_600: list[tuple[int, int, int]] = [
-        SLATE_600,
-        GRAY_600,
-        ZINC_600,
-        NEUTRAL_600,
-        STONE_600,
         RED_600,
         ORANGE_600,
         AMBER_600,
@@ -1679,11 +1524,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_650: list[tuple[int, int, int]] = [
-        SLATE_650,
-        GRAY_650,
-        ZINC_650,
-        NEUTRAL_650,
-        STONE_650,
         RED_650,
         ORANGE_650,
         AMBER_650,
@@ -1704,11 +1544,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_700: list[tuple[int, int, int]] = [
-        SLATE_700,
-        GRAY_700,
-        ZINC_700,
-        NEUTRAL_700,
-        STONE_700,
         RED_700,
         ORANGE_700,
         AMBER_700,
@@ -1729,11 +1564,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_750: list[tuple[int, int, int]] = [
-        SLATE_750,
-        GRAY_750,
-        ZINC_750,
-        NEUTRAL_750,
-        STONE_750,
         RED_750,
         ORANGE_750,
         AMBER_750,
@@ -1754,11 +1584,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_800: list[tuple[int, int, int]] = [
-        SLATE_800,
-        GRAY_800,
-        ZINC_800,
-        NEUTRAL_800,
-        STONE_800,
         RED_800,
         ORANGE_800,
         AMBER_800,
@@ -1779,11 +1604,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_850: list[tuple[int, int, int]] = [
-        SLATE_850,
-        GRAY_850,
-        ZINC_850,
-        NEUTRAL_850,
-        STONE_850,
         RED_850,
         ORANGE_850,
         AMBER_850,
@@ -1804,11 +1624,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_900: list[tuple[int, int, int]] = [
-        SLATE_900,
-        GRAY_900,
-        ZINC_900,
-        NEUTRAL_900,
-        STONE_900,
         RED_900,
         ORANGE_900,
         AMBER_900,
@@ -1829,11 +1644,6 @@ class TAILWIND_COLORS_RGB:
     ]
 
     RAINBOW_950: list[tuple[int, int, int]] = [
-        SLATE_950,
-        GRAY_950,
-        ZINC_950,
-        NEUTRAL_950,
-        STONE_950,
         RED_950,
         ORANGE_950,
         AMBER_950,

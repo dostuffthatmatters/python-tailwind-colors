@@ -346,7 +346,7 @@ for j, color in enumerate(COLORS):
 for i in range(50, 1000, 50):
     hex_out += "RAINBOW_" + f"{i:03d}: list[str] = [\n\t"
     rgb_out += "RAINBOW_" + f"{i:03d}: list[tuple[int, int, int]] = [\n\t"
-    for color in COLORS:
+    for color in list(COLORS.keys())[5:]:
         hex_out += f"\t{color.upper()}_{i:03d},\n\t"
         rgb_out += f"\t{color.upper()}_{i:03d},\n\t"
     hex_out += "]\n\t\n\t"
